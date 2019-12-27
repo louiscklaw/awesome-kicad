@@ -1,0 +1,6 @@
+[submodule "kicad-file-render-service"]
+	path = kicad-file-render-service
+	url = https://github.com/louiscklaw/kicad-file-render-service.git
+[submodule "kicad-automation-scripts"]
+	path = kicad-automation-scripts
+	url = https://github.com/louiscklaw/kicad-automation-scripts.git
